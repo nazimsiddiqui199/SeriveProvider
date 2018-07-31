@@ -3,7 +3,7 @@
 //  Mappd
 //
 //  Created by Nazim on 08/12/17.
-//  Copyright © 2017 Alkurn. All rights reserved.
+//  Copyright © 2017 Nazimm. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

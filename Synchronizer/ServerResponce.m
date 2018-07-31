@@ -3,7 +3,7 @@
 //  Mappd
 //
 //  Created by Nazim on 12/08/17.
-//  Copyright © 2017 Alkurn. All rights reserved.
+//  Copyright © 2017 Nazim. All rights reserved.
 //
 
 #import "ServerResponce.h"
